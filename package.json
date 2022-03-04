@@ -1,0 +1,14 @@
+{
+  "name": "cursobackend-entregable",
+  "version": "1.0.0",
+  "description": "Desafíos desde la clase 6 en adelnate del curso de Back End de Coder House",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Cazalá",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
