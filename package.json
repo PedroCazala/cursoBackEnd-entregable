@@ -4,7 +4,8 @@
   "description": "Desafíos desde la clase 6 en adelnate del curso de Back End de Coder House",
   "main": "servidor.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "type":"module"
   },
   "author": "Pedro Cazalá",
   "license": "ISC",

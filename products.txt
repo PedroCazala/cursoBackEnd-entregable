@@ -1,0 +1,1 @@
+[{"id":0,"nombre":"papa","foto":"./papa","price":65.2},{"id":1,"nombre":"kiwi","foto":"./kiwi","price":33.65},{"id":2,"nombre":"naranja","foto":"./naranja","price":156.4}]
